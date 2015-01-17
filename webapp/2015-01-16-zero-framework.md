@@ -44,7 +44,7 @@ ES6的到来，使得JavaScript语言有了原生的模块解决方案。于是�
 ## 流程控制和架构（Flow Control/Architecture）
 
 - [ondomready](https://github.com/tubalmartin/ondomready)：类似jQuery的ready()方法，符合AMD规范
-- [script.js](https://github.com/ded/script.js])：异步的脚本加载和依赖关系管理库
+- [script.js](https://github.com/ded/script.js)：异步的脚本加载和依赖关系管理库
 - [async](https://github.com/caolan/async)：浏览器和node.js的异步管理工具库
 - [Virtual DOM](https://github.com/Matt-Esch/virtual-dom)：react.js的一个替代方案，参见[Virtual DOM and diffing algorithm](https://gist.github.com/Raynos/8414846)
 
