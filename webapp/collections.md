@@ -12,26 +12,26 @@
 
 ## 表单处理
 
-1. `<select>` 相关
+### `<select>` 相关
 
 - [Chosen](https://github.com/harvesthq/chosen)
 - [Select2](https://github.com/ivaynberg/select2)
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 
-2. 上传组件
+### 上传组件
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [Web Uploader](http://fex-team.github.io/webuploader/)
 - [Uploadify](http://www.uploadify.com/)
 - [arale-upload](https://github.com/aralejs/upload) - 轻量级 iframe and html5 file uploader
 
-3. 日期选择
+### 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 
-4. 取色
+### 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
 
@@ -47,17 +47,17 @@
 
 ## 页面交互
 
-1. Slider
+### Slider
 
 - [slick](https://github.com/kenwheeler/slick/) - the last carousel you'll ever need
 - [Swipe](https://github.com/thebird/Swipe) - the most accurate touch slider
 
-2. 瀑布流
+### 瀑布流
 
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope](http://isotope.metafizzy.co/) - Filter & sort magical layouts
 
-3. 图片懒加载
+### 图片懒加载
 
 - [imagesLoaded](http://imagesloaded.desandro.com/)
 - [Echo.js](https://github.com/toddmotto/echo)
