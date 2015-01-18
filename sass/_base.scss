@@ -44,11 +44,11 @@ ul {
     &:window-inactive {
         background: $gray-light;
     }
+}
 
-    // Remove `background` on images when selected
-    img& {
-        background: transparent;
-    }
+// Remove `background` on images when selected
+img::selection {
+    background: transparent;
 }
 
 /**
