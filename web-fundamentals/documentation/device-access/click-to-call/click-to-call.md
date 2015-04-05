@@ -2,10 +2,10 @@
 
 In this guide
 
-- [Link telephone numbers for click to call]()
-- [Use the international dialing format]()
-- [Disable auto-detection when necessary]()
-- [Other click to call features]()
+- [Link telephone numbers for click to call](#link-telephone-numbers-for-click-to-call)
+- [Use the international dialing format](#use-the-international-dialing-format)
+- [Disable auto-detection when necessary](#disable-auto-detection-when-necessary)
+- [Other click to call features](#other-click-to-call-features)
 
 **TL;DR**
 
