@@ -111,6 +111,6 @@ Internet Explorer on Windows Phone has a similar behavior, but is suppressed via
 
 Class | Example | Description
 ----- | ------- | -----------
-`:hover` | [Button in Pressed State](images/btn-hover-state.png) | This state is entered when a is cursor placed over an element. Changes in UI on hover are helpful to encourage users to interact with elements.
-`:focus` | [Button with Focus State](images/btn-focus-state.png) | When you tab through elements on a page, you are moving the focus from one element to the next. The focus state allows the user to know what element they are currently interacting with; also allows users to navigate your UI easily using a keyboard.
-`:active` | [Button in Pressed State](images/btn-pressed-state.png) | This is the state an element has when it's being selected, for example a user clicking or touching an element.
+`:hover` | ![Button in Pressed State](images/btn-hover-state.png) | This state is entered when a is cursor placed over an element. Changes in UI on hover are helpful to encourage users to interact with elements.
+`:focus` | ![Button with Focus State](images/btn-focus-state.png) | When you tab through elements on a page, you are moving the focus from one element to the next. The focus state allows the user to know what element they are currently interacting with; also allows users to navigate your UI easily using a keyboard.
+`:active` | ![Button in Pressed State](images/btn-pressed-state.png) | This is the state an element has when it's being selected, for example a user clicking or touching an element.
