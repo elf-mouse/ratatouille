@@ -1,3 +1,3 @@
-# 10 Let users purchase as a guest
+# 02 Let users purchase as a guest
 
 ![Site with guest or logged in purchase.](imgs/cc-purchase-guest-good.png)

@@ -1,4 +1,4 @@
-# 11 Use existing information to maximize convenience
+# 04 Use existing information to maximize convenience
 
 Take advantage of information you already have, and/or use third-party payment services to make conversion as easy as possible.
 

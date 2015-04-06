@@ -1,4 +1,4 @@
-# 09 Let users explore before they commit
+# 01 Let users explore before they commit
 
 ![Site with login gates](imgs/cc-gates-bad.png)
 
